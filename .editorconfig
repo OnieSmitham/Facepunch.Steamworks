@@ -1,4 +1,4 @@
-# Remove the line below if you want to inherit .editorconfig settings from higher directories
+ !Remove the line below if you want to inherit .editorconfig settings from higher directories
 root = true
 
 # C# files
@@ -97,4 +97,4 @@ csharp_space_between_square_brackets = false
 
 # Wrapping preferences
 csharp_preserve_single_line_blocks = true
-csharp_preserve_single_line_statements = true
+csharp_preserve_single_line_statements = true 
