@@ -1,7 +1,7 @@
  !Remove the line below if you want to inherit .editorconfig settings from higher directories
 root = true
 
-# C# files
+! C# files
 [*.cs]
 indent_style = tab
 indent_size = tab
@@ -97,4 +97,4 @@ csharp_space_between_square_brackets = false
 
 # Wrapping preferences
 csharp_preserve_single_line_blocks = true
-csharp_preserve_single_line_statements = true 
+csharp_preserve_single_line_statements = true  
